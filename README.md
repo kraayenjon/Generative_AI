@@ -1,6 +1,8 @@
 # OpenAI and Eleven Labs API Integration
 
-Welcome to the OpenAI and Eleven Labs API Integration repository! This project showcases the seamless collaboration between OpenAI's powerful language models and Eleven Labs API to handle audio processing. The script in this repository demonstrates a comprehensive workflow involving English audio transcription, summarization, translation to Spanish, and the generation of a corresponding Spanish audio file.
+Welcome to the OpenAI and Eleven Labs API Integration repository! This project showcases the seamless collaboration between OpenAI's powerful language models and Eleven Labs API to handle audio processing. 
+
+The notebook in this repository demonstrates a comprehensive workflow involving English audio transcription, summarization, translation to a second language, and the generation of a corresponding Spanish audio file.
 
 ## Workflow Overview
 
